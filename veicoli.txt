@@ -1,0 +1,3 @@
+1,AA111AA,Fiat,Punto,5
+2,BB222BB,Ford,Focus,5
+3,CC333CC,Fiat,Panda,4
